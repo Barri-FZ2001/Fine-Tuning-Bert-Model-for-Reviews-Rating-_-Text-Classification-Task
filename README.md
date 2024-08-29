@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook for fine-tuning a BERT model to pred
 - PyTorch
 - `transformers` library
 - `pandas`
-- `scikit-learn`
+- `numpy`
 
 ## Installation
 
